@@ -2,7 +2,7 @@
 
 ![Retail price optimization](https://github.com/SyedsPortfolio/Retail_Price_Optimization/assets/147240839/4b973db5-74fd-434c-ba3e-54769126f78e)
 
-#### Tools used🛠: Python, ML, NLP, NumPy, Pandas, Sk-learn, TensorFlow, Keras, spaCy
+#### Tools used🛠: Python, Pandas, Plotly, Sci-kit Learn
 🔗dataset link -->https://statso.io/retail-price-optimization-case-study/
 
 ## 🚧You can see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
